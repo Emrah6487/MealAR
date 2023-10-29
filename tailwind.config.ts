@@ -13,6 +13,13 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      borderColor: {
+        '1D3557': '#1D3557',
+        "BB2649":'#BB2649'
+      },
+      backgroundColor: {
+        "BB2649":'#BB2649'// Özelleştirilmiş renk kodu
+      },
     },
   },
   plugins: [],
